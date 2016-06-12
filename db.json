@@ -1,0 +1,91 @@
+{"sede" :
+  [
+    {"piso_6":
+      [
+        {"nombre": "611", "ce": 1, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "610", "ce": 1, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "609", "ce": 1, "descripcion": "sala de clase", "comentario": ""}
+      ]
+    },
+    {"piso_5":
+      [
+        {"nombre": "514", "ce": 1, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "513", "ce": 1, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "512", "ce": 1, "descripcion": "sala de clase", "comentario": ""}
+      ]
+    },
+    {"piso_4":
+      [
+        {"nombre": "404", "ce": 1, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "403", "ce": 1, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "402", "ce": 1, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "401", "ce": 1, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "biblioteca", "ce": 16, "descripcion": "sala de clase", "comentario": ""}
+      ]
+    },
+
+    {"piso_3":
+      [
+        {"nombre": "LC7", "ce": 43, "descripcion": "laboratorio de computacion", "comentario": ""},
+        {"nombre": "LC6", "ce": 41, "descripcion": "laboratorio de computacion", "comentario": ""},
+        {"nombre": "LC5", "ce": 41, "descripcion": "laboratorio de computacion", "comentario": ""},
+        {"nombre": "LC4", "ce": 32, "descripcion": "laboratorio de computacion", "comentario": ""},
+        {"nombre": "LC3", "ce": 31, "descripcion": "laboratorio de computacion", "comentario": ""},
+        {"nombre": "LC2", "ce": 31, "descripcion": "laboratorio de computacion", "comentario": ""},
+        {"nombre": "LC1", "ce": 32, "descripcion": "laboratorio de computacion", "comentario": ""},
+        {"nombre": "sala_internet", "ce": 19, "descripcion": "sala de clase", "comentario": ""}
+      ]
+    },
+
+    {"piso_2":
+      [
+        {"nombre": "209", "ce": 1, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "208", "ce": 1, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "207", "ce": 1, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "206", "ce": 1, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "205", "ce": 1, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "204", "ce": 1, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "203", "ce": 1, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "202", "ce": 1, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "201", "ce": 1, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "sala_internet", "ce": 19, "descripcion": "sala de clase", "comentario": ""}
+      ]
+    },
+
+    {"piso_i1":
+      [
+        {"nombre": "i01", "ce": 0, "descripcion": "laboratorio multiuso", "comentario": ""},
+        {"nombre": "i02", "ce": 1, "descripcion": "laboratorio de ciencias basicas", "comentario": ""},
+        {"nombre": "i03", "ce": 1, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "i04", "ce": 1, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "i05", "ce": 1, "descripcion": "sala de tableros", "comentario": ""},
+        {"nombre": "i06", "ce": 0, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "i07", "ce": 0, "descripcion": "diebriefing", "comentario": ""},
+        {"nombre": "i08", "ce": 0, "descripcion": "laboratorio clinico", "comentario": ""},
+        {"nombre": "i09", "ce": 2, "descripcion": "toma y muestra banco de sangre", "comentario": ""},
+        {"nombre": "i010", "ce": 1, "descripcion": "laboratorio de anatomia", "comentario": ""},
+        {"nombre": "i011", "ce": 1, "descripcion": "primeros auxilios", "comentario": ""},
+        {"nombre": "i012", "ce": 2, "descripcion": "diebriefing", "comentario": ""},
+        {"nombre": "i013", "ce": 19, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "i014", "ce": 19, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "i015", "ce": 19, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "i016", "ce": 19, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "i017", "ce": 19, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "i018", "ce": 19, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "i019", "ce": 19, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "i020", "ce": 19, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "i021", "ce": 19, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "i022", "ce": 19, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "i023", "ce": 19, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "i024", "ce": 19, "descripcion": "sala de clase", "comentario": ""},
+        {"nombre": "i025", "ce": 19, "descripcion": "sala de clase", "comentario": ""}
+      ]
+    }
+
+
+
+
+
+
+  ]
+}
